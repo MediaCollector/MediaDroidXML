@@ -8,12 +8,19 @@ When developing Android applications—especially when fine-tuning UIs with Kotl
 
 This collection documents everything from modern rugged phones to classic legacy hardware. The profiles include accurate API levels, resolutions, and screen specifications for devices across various manufacturers:
 
-*   **Samsung:** Galaxy S4 (useful for testing classic environments or specific carrier variants like the Cricket Wireless rollouts), Galaxy S5, Galaxy S9, Galaxy S2 Plus, Galaxy A14 5G, Galaxy Tab A7 Lite, Galaxy S7 active, and Galaxy S4 mini.
+*   **Samsung:** Galaxy S4, Galaxy S5, Galaxy S9, Galaxy S2 Plus, Galaxy A14 5G, Galaxy Tab A7 Lite, Galaxy S7 active, Galaxy E3, Galaxy S3 Neo Duos and Galaxy S4 mini.
 *   **Motorola:** Moto E5 Play, Moto G (2024), and Moto G (2025).
 *   **LG:** G Pad 7.0 LTE and L60 Dual.
 *   **ZTE:** Blade L110 and Grand X View 2.
-*   **Rugged & Specialty:** CAT S22 Flip, CAT S60, Energizer Hardcase H550S, and Sonim XP8.
-*   **Other Manufacturers:** Lenovo S5000, Micromax (A106 Unite 2, Canvas Sliver 5 Q450), and Umidigi G9x.
+*   **Caterpillar:** S22 Flip and S60.
+*   **Energizer:** Hardcase H550S.
+*   **Sonim:** XP8.
+*   **Lenovo:** S5000.
+*   **Micromax:** A106 Unite 2 and Canvas Sliver 5 Q450.
+*   **Umidigi:** G9x.
+*   **Wiko:** Highway Pure Swarovski Edition.
+*   **Fly Mobile:** FS408 Stratus 8 and Horizon 1 IQ239.
+*   **HTC:** Desire 626G+.
 
 ## How to Use
 
