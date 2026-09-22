@@ -16,7 +16,7 @@ When developing Android applications—especially when fine-tuning UIs with **Ko
 
 This collection documents everything from modern rugged phones to classic legacy hardware. The profiles include accurate API levels, resolutions, and screen specifications for devices across various manufacturers:
 
-*   ![Samsung](https://img.shields.io/badge/Samsung-1428A0?style=flat-square&logo=samsung&logoColor=white) Galaxy S4, Galaxy S5, Galaxy S9, Galaxy S2 Plus, Galaxy A14 5G, Galaxy Tab A7 Lite, Galaxy S7 active, Galaxy E3, Galaxy S3 Neo Duos and Galaxy S4 mini.
+*   ![Samsung](https://img.shields.io/badge/Samsung-1428A0?style=flat-square&logo=samsung&logoColor=white) Galaxy S4, Galaxy S5, Galaxy S9, Galaxy S2 Plus, Galaxy A14 5G, Galaxy Tab A7 Lite, Galaxy S7 active, Galaxy E5, Galaxy S3 Neo Duos and Galaxy S4 mini.
 *   ![Motorola](https://img.shields.io/badge/Motorola-001489?style=flat-square&logo=motorola&logoColor=white) Moto E5 Play, Moto G (2024), and Moto G (2025).
 *   ![LG](https://img.shields.io/badge/LG-A50034?style=flat-square&logo=lg&logoColor=white) G Pad 7.0 LTE and L60 Dual.
 *   ![ZTE](https://img.shields.io/badge/ZTE-0062AC?style=flat-square&logo=zte&logoColor=white) Blade L110 and Grand X View 2.
