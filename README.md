@@ -11,6 +11,11 @@
 
 Welcome to **MediaDroidXML**, a collection of custom Android Studio hardware profile XML files.
 
+Our supported operating systems:
+[![Windows](https://badgen.net/badge/Windows/.exe/cyan?icon=windows&labelColor=blue)](https://www.windows.com)
+[![macOS](https://badgen.net/badge/macOS/.dmg/gray?icon=apple&labelColor=black)](https://www.apple.com/os/macos/)
+[![Linux](https://badgen.net/badge/Linux/.deb%2C%20rpm/orange?icon=gnome&labelColor=yellow)](https://www.linux.org/)
+
 When developing Android applications—especially when fine-tuning UIs with **Kotlin** and **Jetpack Compose**—having accurate hardware representations is essential. This repository provides exact device specifications that can be imported directly into the **Android Studio Device Manager**, allowing for precise emulation across a wide spectrum of mobile hardware.
 
 ## 📱 What's Included
