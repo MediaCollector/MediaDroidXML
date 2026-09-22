@@ -35,6 +35,7 @@ This collection documents everything from modern rugged phones to classic legacy
 *   ![Wiko](https://img.shields.io/badge/Wiko-00A3A6?style=flat-square&logoColor=white) Highway Pure Swarovski Edition.
 *   ![Fly Mobile](https://img.shields.io/badge/Fly_Mobile-F26522?style=flat-square&logoColor=white) FS408 Stratus 8 and Horizon 1 IQ239.
 *   ![HTC](https://img.shields.io/badge/HTC-84BD00?style=flat-square&logo=htc&logoColor=white) U11 Life, Wildfire E5 Life and Desire 626G+.
+*   ![Lava International](https://img.shields.io/badge/Lava%20International-ff0000?style=flat-square&logo=lava&logoColor=white) Iris 404 Flair.
 
 ## ⚙️ How to Use
 
