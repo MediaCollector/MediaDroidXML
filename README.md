@@ -22,10 +22,10 @@ When developing Android applications—especially when fine-tuning UIs with **Ko
 
 This collection documents everything from modern rugged phones to classic legacy hardware. The profiles include accurate API levels, resolutions, and screen specifications for devices across various manufacturers:
 
-*   ![Samsung](https://img.shields.io/badge/Samsung-1428A0?style=flat-square&logo=samsung&logoColor=white) Galaxy S4, Galaxy S5, Galaxy S9, Galaxy S2 Plus, Galaxy A14 5G, Galaxy Tab A7 Lite, Galaxy S7 active, Galaxy E5, Galaxy S3 Neo Duos and Galaxy S4 mini.
+*   ![Samsung](https://img.shields.io/badge/Samsung-1428A0?style=flat-square&logo=samsung&logoColor=white) Galaxy S4, Galaxy S5, Galaxy S9, Galaxy S2 Plus, Galaxy A14 5G, Galaxy Tab A7 Lite, Galaxy S7 active, Galaxy E5, Galaxy S3 Neo Duos, Galaxy S4 mini, Galaxy A21s, Galaxy J7 Pro, and Galaxy Tab S9 FE+.
 *   ![Motorola](https://img.shields.io/badge/Motorola-001489?style=flat-square&logo=motorola&logoColor=white) Moto E5 Play, Moto G (2024), Luge, DROID RAZR MAXX HD, Moto X and Moto G (2025).
-*   ![LG](https://img.shields.io/badge/LG-A50034?style=flat-square&logo=lg&logoColor=white) G Pad 7.0 LTE and L60 Dual.
-*   ![ZTE](https://img.shields.io/badge/ZTE-0062AC?style=flat-square&logo=zte&logoColor=white) Blade L110 and Grand X View 2.
+*   ![LG](https://img.shields.io/badge/LG-A50034?style=flat-square&logo=lg&logoColor=white) G Pad 7.0 LTE, L60 Dual, and X power2.
+*   ![ZTE](https://img.shields.io/badge/ZTE-0062AC?style=flat-square&logo=zte&logoColor=white) Blade L110, Grand X View 2, and Zinger[cite: 2].
 *   ![Caterpillar](https://img.shields.io/badge/Caterpillar-FFCD11?style=flat-square&logo=caterpillar&logoColor=black) S22 Flip and S60.
 *   ![Energizer](https://img.shields.io/badge/Energizer-D8232A?style=flat-square&logoColor=white) Hardcase H550S.
 *   ![Sonim](https://img.shields.io/badge/Sonim-E31B23?style=flat-square&logoColor=white) XP8.
@@ -36,6 +36,11 @@ This collection documents everything from modern rugged phones to classic legacy
 *   ![Fly Mobile](https://img.shields.io/badge/Fly_Mobile-F26522?style=flat-square&logoColor=white) FS408 Stratus 8 and Horizon 1 IQ239.
 *   ![HTC](https://img.shields.io/badge/HTC-84BD00?style=flat-square&logo=htc&logoColor=white) U11 Life, Wildfire E5 Life and Desire 626G+.
 *   ![Lava International](https://img.shields.io/badge/Lava%20International-ff0000?style=flat-square&logo=lava&logoColor=white) Iris 404 Flair.
+*   ![Acer](https://img.shields.io/badge/Acer-83B81A?style=flat-square&logo=acer&logoColor=white) Liquid E600.
+*   ![BlackBerry](https://img.shields.io/badge/BlackBerry-000000?style=flat-square&logo=blackberry&logoColor=white) Priv.
+*   ![Oppo](https://img.shields.io/badge/Oppo-006B54?style=flat-square&logo=oppo&logoColor=white) A37 and F5.
+*   ![Sony](https://img.shields.io/badge/Sony-000000?style=flat-square&logo=sony&logoColor=white) Xperia XZ1.
+*   ![Vertu](https://img.shields.io/badge/Vertu-000000?style=flat-square&logoColor=white) Signature Touch (2015).
 
 ## ⚙️ How to Use
 
