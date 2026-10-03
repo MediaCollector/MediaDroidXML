@@ -25,7 +25,7 @@ This collection documents everything from modern rugged phones to classic legacy
 *   ![Samsung](https://img.shields.io/badge/Samsung-1428A0?style=flat-square&logo=samsung&logoColor=white) Galaxy S4, Galaxy S5, Galaxy S9, Galaxy S2 Plus, Galaxy A14 5G, Galaxy Tab A7 Lite, Galaxy S7 active, Galaxy E5, Galaxy S3 Neo Duos, Galaxy S4 mini, Galaxy A21s, Galaxy J7 Pro, and Galaxy Tab S9 FE+.
 *   ![Motorola](https://img.shields.io/badge/Motorola-001489?style=flat-square&logo=motorola&logoColor=white) Moto E5 Play, Moto G (2024), Luge, DROID RAZR MAXX HD, Moto X and Moto G (2025).
 *   ![LG](https://img.shields.io/badge/LG-A50034?style=flat-square&logo=lg&logoColor=white) G Pad 7.0 LTE, L60 Dual, and X power2.
-*   ![ZTE](https://img.shields.io/badge/ZTE-0062AC?style=flat-square&logo=zte&logoColor=white) Blade L110, Grand X View 2, and Zinger[cite: 2].
+*   ![ZTE](https://img.shields.io/badge/ZTE-0062AC?style=flat-square&logo=zte&logoColor=white) Blade L110, Grand X View 2, and Zinger.
 *   ![Caterpillar](https://img.shields.io/badge/Caterpillar-FFCD11?style=flat-square&logo=caterpillar&logoColor=black) S22 Flip and S60.
 *   ![Energizer](https://img.shields.io/badge/Energizer-D8232A?style=flat-square&logoColor=white) Hardcase H550S.
 *   ![Sonim](https://img.shields.io/badge/Sonim-E31B23?style=flat-square&logoColor=white) XP8.
