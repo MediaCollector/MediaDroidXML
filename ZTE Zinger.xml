@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <d:devices xmlns:d="http://schemas.android.com/sdk/devices/10" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <d:device>
-    <d:name>Fly Horizon 1 IQ239</d:name>
+    <d:name>ZTE Zinger</d:name>
     <d:manufacturer>User</d:manufacturer>
     <d:meta/>
     <d:hardware>
       <d:screen>
-        <d:screen-size>normal</d:screen-size>
-        <d:diagonal-length>4.50</d:diagonal-length>
-        <d:pixel-density>hdpi</d:pixel-density>
-        <d:screen-ratio>long</d:screen-ratio>
+        <d:screen-size>small</d:screen-size>
+        <d:diagonal-length>3.50</d:diagonal-length>
+        <d:pixel-density>mdpi</d:pixel-density>
+        <d:screen-ratio>notlong</d:screen-ratio>
         <d:dimensions>
-          <d:x-dimension>480</d:x-dimension>
-          <d:y-dimension>854</d:y-dimension>
+          <d:x-dimension>320</d:x-dimension>
+          <d:y-dimension>480</d:y-dimension>
         </d:dimensions>
-        <d:xdpi>217.70</d:xdpi>
-        <d:ydpi>217.70</d:ydpi>
+        <d:xdpi>164.83</d:xdpi>
+        <d:ydpi>164.83</d:ydpi>
         <d:touch>
           <d:multitouch>jazz-hands</d:multitouch>
           <d:mechanism>finger</d:mechanism>
@@ -67,7 +67,7 @@ ProximitySensor</d:sensors>
       <d:skin>_no_skin</d:skin>
     </d:hardware>
     <d:software>
-      <d:api-level>17</d:api-level>
+      <d:api-level>19</d:api-level>
       <d:live-wallpaper-support>true</d:live-wallpaper-support>
       <d:bluetooth-profiles/>
       <d:gl-version>2.0</d:gl-version>
